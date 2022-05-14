@@ -1,0 +1,23 @@
+html, #root,body{
+    height:100%;
+}
+*{
+    transition: all 0.1s;
+}
+.search-icon{
+    color:hsl(0, 0%, 52%);
+    position:absolute;
+    left:5%;
+    top:45%;
+    transform: translate(-50%,-50%);
+}
+.styled-select > h2{
+    cursor: pointer;
+}
+.country-flag{
+    height:128px;
+    width:100%;
+}
+td{
+    padding:3px;
+}
